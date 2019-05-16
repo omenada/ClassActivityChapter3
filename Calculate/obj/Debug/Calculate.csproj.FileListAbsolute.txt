@@ -1,0 +1,9 @@
+C:\Projects\New Project\calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Projects\New Project\calculate\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Projects\New Project\calculate\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\frmMain.resources
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Projects\New Project\calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
